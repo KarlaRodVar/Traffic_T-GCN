@@ -23,6 +23,8 @@ Este notebook está estrechamente relacionado con una sección escrita que propo
   - Librería de red neuronal utilizada: StellarGraph
     Link: https://stellargraph.readthedocs.io/
 
+Nota: Los datos iniciales y los datos preprocesados han sido borrados por motivos de inconvenientes para subir al repositorio
+
 
 
 
